@@ -1,19 +1,11 @@
 # Ochre Light
 
-A light, autumn-toned theme for [Omarchy](https://github.com/basecamp/omarchy).
+A light autumn theme for [Omarchy Quattro](https://github.com/omacom/omarchy).
 
-The light counterpart to [Ochre](https://github.com/bjarneo/omarchy-ochre-theme): same warm palette of rust, oxblood, olive, gold, and slate-blue, on a parchment background.
+## Install
 
-Prefer the dark original? See [Ochre](https://github.com/bjarneo/omarchy-ochre-theme).
-
-![Preview](preview.png)
-
-## Installation
-
-```sh
-omarchy-theme-install https://github.com/bjarneo/omarchy-ochre-light-theme
+```bash
+omarchy theme install https://github.com/bjarneo/omarchy-ochre-light-theme
 ```
 
-## Author
-
-[@iamdothash](https://x.com/iamdothash)
+See [Ochre](https://github.com/bjarneo/omarchy-ochre-theme) for the dark counterpart.
